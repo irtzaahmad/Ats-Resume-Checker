@@ -16,7 +16,7 @@ define( 'ATS_RESUME_CHECKER_DIR', get_template_directory() );
 define( 'ATS_RESUME_CHECKER_URI', get_template_directory_uri() );
 
 // Set API Key automatically (Delete this line after one page refresh)
-update_option('ats_gemini_api_key', 'AIzaSyAtOR1PC7b-OtfdT_UixVcvhpCYtfnykjI');
+update_option('ats_gemini_api_key', '');
 
 /**
  * Theme Setup
